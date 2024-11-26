@@ -1,6 +1,9 @@
-CV
+#CV
+
 Guillermo Diego Ojeda Cueto: https://github.com/theguilleoc
+
 Robert Sebastian Colman Cespedes : https://github.com/sebass25
+
 # Análisis de Mantenimiento Predictivo en Transformadores
 
 Este proyecto explora un enfoque basado en datos para el mantenimiento predictivo de transformadores eléctricos. El objetivo principal es identificar factores de riesgo y predecir fallos en transformadores utilizando técnicas de análisis de datos.
