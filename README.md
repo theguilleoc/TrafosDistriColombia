@@ -1,4 +1,4 @@
-CV de Integrantes:
+# CV de Integrantes:
 
 Guillermo Diego Ojeda Cueto: https://github.com/theguilleoc
 
